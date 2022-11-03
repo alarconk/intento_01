@@ -1,1 +1,3 @@
 Scrum
+
+scrum es una metodologia agil para el desarrolo de software 
